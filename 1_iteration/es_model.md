@@ -1,3 +1,5 @@
+### Event Storming модель
+
 https://miro.com/app/board/uXjVMJekl-s=/?moveToWidget=3458764554378979208&cot=14
 
 ### Логика, по которой команды и события сгруппированы в контексты
