@@ -21,3 +21,5 @@
 ### Core Domain Chart
 
 ![core-domain-chart](resources/core-domain-chart.jpg)
+
+Диаграмма сделана по [шаблону](https://github.com/ddd-crew/core-domain-charts/blob/master/resources/drawio-template/core-domain-chart-template.drawio).
